@@ -1,0 +1,69 @@
+body {
+    background-color:rgb(196, 196, 248)
+}
+
+
+.title {
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(109, 65, 65);
+    width: 500px;
+    display: block;
+    text-align: right;
+    margin: 12px 640px;
+    padding: 12px;
+}
+
+
+.headers {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:rgb(109, 65, 65);
+    width: 300px;
+    display: block;
+    text-align: right;
+    margin: 6px auto;
+    padding: 12px;
+}
+
+.text-1,
+.text-2,
+.text-3,
+.text-4 {
+    border: 4px solid rgb(109, 65, 65);
+    border-radius: 12px;
+    width: 400px;
+    background: #adf8df;
+    display: block;
+    text-align: center;
+    margin: 6px auto;
+    padding: 20px;
+}
+
+.header-2 {
+    margin: 24px 165px;
+}
+
+.header-3 {
+    margin: 24px 200px;
+}
+
+.header-4 {
+    width: 300px;
+    margin: 24px 70px;
+}
+
+img {
+    display: block;
+    width: 310px;
+    height: 210px;
+    border: 4px solid rgb(109, 65, 65);
+    border-radius: 12px;
+    margin: 20px auto;
+}
+
+#tilapia {
+    display: block;
+    width: 310px;
+    height: 210px;
+    margin: 20px 870px;
+}
